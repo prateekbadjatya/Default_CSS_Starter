@@ -1,1 +1,1 @@
-# Default_CSS_Starter
+# Default CSS setup
